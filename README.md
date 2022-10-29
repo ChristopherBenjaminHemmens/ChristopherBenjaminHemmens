@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChristopherBenjaminHemmens
-- 👀 I’m interested in reality birds because apparently they aren't real
+- 👀 I’m interested in reality and birds because apparently birds aren't real
 - 🌱 I’m currently learning the data my sensory organs are feeding my brain
 - 💞️ I’m looking to collaborate on automating things. I like automated trading and crypto minng. I do a lot of web development and have experience in PHP, JavaScript, C# and Java, data modelling and many different stacks.
 - 📫 You can reach me at chrishemmens@hotmail.com
