@@ -3,5 +3,5 @@
 - 🎓 I've been to school before. I have a college degree in Application Development and have studied Software Engineering.
 - 👀 I’m interested in reality and birds because birds aren't real.
 - 🌱 I’m currently learning the data my sensory organs are feeding my brain.
-- 💞️ I’m looking to collaborate on automating things with software. I like algorithmic trading, crypto currency minng and aritificial intelligence. I do a lot of web development and have experience writing PHP, JavaScript, C#, Java, Python and many other languages. I also like data modelling SQL and no SQL variants. I have experience with many different stacks on Windows and Linux and have a fasination for computer hardware.
+- 💞️ I’m looking to collaborate on automating things with software. I like algorithmic trading, crypto currency minng and aritificial intelligence. I do a lot of web development and have experience writing real-time data driven websites in PHP, JavaScript, C#, Java, Python and many other languages. I also like data modelling in SQL variants. I have experience with many different stacks on Windows and Linux and have a fasination for computer hardware.
 - 📫 You can reach me at chrishemmens@hotmail.com
