@@ -1,4 +1,4 @@
-👋 Hi fellow nerds! I’m Christopher but you can call me Chris. I'm a Dutch born Northern-Irish grown culchie and Web Developer living in The Netherlands.
+👋 Hi nerds! I’m Christopher but you can call me Chris. I'm a Dutch born Northern-Irish grown culchie and Web Developer living in The Netherlands.
 
 📑 I'm primarily self-taught by stuff other people put on the internet. I have several years of professional experience as a Web Developer. I started programming at a young age as a hobby.
 
