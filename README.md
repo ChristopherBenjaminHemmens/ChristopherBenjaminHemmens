@@ -1,6 +1,6 @@
 - 👋 Hi nerds! I’m Christopher but you can call me Chris. I'm a Dutch born Northern-Irish grown cultchy living in The Netherlands.
 - 📑 I'm primarily self-taught, I have several years of professional experience as a Web Developer. 
-- 🎓 I've been to school before. I have a college degree in Application Development.
+- 🎓 I've been to school before. I have a college degree in Application Development and have studied Software Engineering.
 - 👀 I’m interested in reality and birds because birds aren't real.
 - 🌱 I’m currently learning the data my sensory organs are feeding my brain.
 - 💞️ I’m looking to collaborate on automating things with software. I like automated trading, crypto minng and Aritificial Intelligence. I do a lot of web development and have experience writing PHP, JavaScript, C#, Java and many other languages. I also like data modelling and have experience with many different stacks.
