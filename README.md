@@ -1,7 +1,7 @@
 - 👋 Hi nerds! I’m Christopher but you can call me Chris. I'm a Dutch born Northern-Irish grown culchie living in The Netherlands.
 - 📑 I'm primarily self-taught by stuff other people put on the internet. I have several years of professional experience as a Web Developer. I started programming at a young age as a hobby.
 - 🎓 I've been to school before. I have a college degree in Application Development and have studied Software Engineering.
-- 👀 I’m interested in reality and birds because birds aren't real.
+- 👀 I’m interested in reality and birds because birds aren't real. I also have a fasination for computer hardware.
 - 🌱 I’m currently learning the data my sensory organs are feeding my brain.
-- 💞️ I’m looking to collaborate on automating things with software. I like algorithmic trading, crypto currency minng and aritificial intelligence. I do a lot of web development and have experience writing real-time data driven websites in PHP, JavaScript, C#, Java, Python and many other languages. I also like data modelling in SQL variants. I have experience with many different stacks on Windows and Linux and have a fasination for computer hardware.
+- 💞️ I’m looking to collaborate on automating things with software. I like algorithmic trading, crypto currency minng and aritificial intelligence. I do a lot of web development and have experience writing real-time data driven websites in PHP, JavaScript, C#, Java, Python and many other languages. I also like data modelling in SQL variants. I have experience with many different stacks on Windows and Linux.
 - 📫 You can reach me at chrishemmens@hotmail.com
