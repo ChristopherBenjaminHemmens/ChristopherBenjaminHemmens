@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning the data my sensory organs are feeding my brain.
 
-💞️ I’m looking to collaborate on automating things with software. I like algorithmic trading, crypto currency mining and aritificial intelligence. I do a lot of web development and have experience writing real-time data driven web applications in PHP, JavaScript, C#, Java, Python and many other languages. I'm good at data modelling in SQL variants, UX and UI design. I have experience with many different stacks on Windows and Linux. I've spent many years developing CMS', CRMs, e-commerce sites and web portals for a variety of differet sectors such as diving, fashion, food, government, healthcare, home imporvement, education, telecom, tech and transport.
+💞️ I’m looking to collaborate on automating things with software. I like algorithmic trading, crypto currency mining and aritificial intelligence. I do a lot of web development and have experience writing real-time data driven web applications in PHP, JavaScript, C#, Java, Python and many other languages. I'm good at data modelling in SQL variants, UX and UI design. I have experience with many different stacks on Windows and Linux. I've spent many years developing CMS', CRMs, e-commerce sites and web portals for a variety of differet sectors such as diving, fashion, food, government, gaming, healthcare, home imporvement, education, telecom, tech and transport.
 
 ⌛ I'm currently working on a democracy management portal, a data management portal for the European Space Agency and several other projects such as Bittrex Arbitrage in my spare time.
 
